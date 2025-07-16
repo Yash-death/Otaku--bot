@@ -9,8 +9,7 @@ Otaku Bot is a fun Slack bot built in Go that delivers random inspirational, fun
 
 > Example output from the `/animequote` command:
 
-![alt text](image.png)
-
+![alt text](anime-quote_slack.gif)
 
 ---
 
